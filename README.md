@@ -23,7 +23,7 @@ Visual Studio Code ver:1.66.2
 
 ## 作者  
 * はるき  
-* 大学４回生
+* 大学生
 * Twitter: @haruki_data
 
 ## 最後に
