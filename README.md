@@ -20,12 +20,3 @@ Visual Studio Code ver:1.66.2
 
 ## 使用したデータ
 今回のコード中にあるtrainやtestなどのデータは[こちら](https://signate.jp/competitions/565/data)にあります。  
-
-## 作者  
-* はるき  
-* 大学生
-* Twitter: @haruki_data
-
-## 最後に
-ご覧いただきありがとうございます。  
-初めてのgithubで慣れないところや至らないところがあるかもしれません。何かありましたら、TwitterのDMなどで、ご指摘いただけるとありがたいです。
